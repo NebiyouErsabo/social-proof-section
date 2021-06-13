@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/NebiyouErsabo/social-proof-section/
-- Live Site URL: [Add live site URL here]
+- Live Site URL: https://nebiyouersabo.github.io/social-proof-section/
 
 ## My process
 
