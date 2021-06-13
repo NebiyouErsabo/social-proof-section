@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Desktop_design.png)
+![](Desktop_design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: https://github.com/NebiyouErsabo/social-proof-section/
 - Live Site URL: [Add live site URL here]
 
 ## My process
